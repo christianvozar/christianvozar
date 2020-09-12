@@ -1,5 +1,9 @@
 ![sig by tainted and alpha king](https://raw.githubusercontent.com/christianvozar/christianvozar/master/img/horizontal-sig.png "Header")
 
+# NFO
+
+My name is Christian R. Vozar and I am a cloud/infrastructure & software architect living in Denver, CO.
+
 <!--
 **christianvozar/christianvozar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
