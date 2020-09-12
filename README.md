@@ -1,4 +1,4 @@
-![sig by tainted and alpha king](https://raw.githubusercontent.com/christianvozar/christianvozar/master/img/readme_header.png "Header")
+![sig by tainted and alpha king](https://raw.githubusercontent.com/christianvozar/christianvozar/master/img/horizontal-sig.png "Header")
 
 <!--
 **christianvozar/christianvozar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
