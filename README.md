@@ -1,4 +1,4 @@
-![sig by tainted and alpha king](https://raw.githubusercontent.com/christianvozar/christianvozar/master/img/horizontal-sig.png "Header")
+![sig by tainted and alpha king](https://raw.githubusercontent.com/christianvozar/christianvozar/master/img/ansi-sig.png "Header")
 
 # NFO
 
