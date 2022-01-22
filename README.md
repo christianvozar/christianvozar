@@ -2,7 +2,9 @@
 
 # NFO
 
-My name is Christian R. Vozar and I am a cloud/infrastructure & software architect living in Denver, CO.
+My name is Christian R. Vozar (he/him) and I build scalable platforms and the teams that build them.
+
+Be sure to follow me on [Twitter](https://twitter.com/christianvozar)!
 
 <!--
 **christianvozar/christianvozar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
