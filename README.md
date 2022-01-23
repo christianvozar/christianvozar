@@ -4,7 +4,7 @@
 
 My name is Christian R. Vozar (he/him) and I build scalable platforms and the teams that build them.
 
-Be sure to follow me on [Twitter](https://twitter.com/christianvozar)!
+<p align="left"> <a href="https://twitter.com/christianvozar" target="blank"><img src="https://img.shields.io/twitter/follow/christianvozar?logo=twitter&style=for-the-badge" alt="christianvozar" /></a> </p>
 
 <!--
 **christianvozar/christianvozar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
