@@ -4,7 +4,7 @@
 
 My name is Christian R. Vozar (he/him) and I build scalable platforms and the teams that build them.
 
-I have a deep love of the [ANSi art}(https://16colo.rs) form and sometimes develop tools to preserve it.
+I have a deep love of the [ANSi art](https://16colo.rs) form and sometimes develop tools to preserve it.
 
 <!--
 **christianvozar/christianvozar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
