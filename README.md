@@ -4,7 +4,7 @@
 
 My name is Christian R. Vozar (he/him) and I build scalable platforms and the teams that build them.
 
-<p align="left"> <a href="https://twitter.com/christianvozar" target="blank"><img src="https://img.shields.io/twitter/follow/christianvozar?logo=twitter&style=for-the-badge" alt="christianvozar" /></a> </p>
+I have a deep love of the [ANSi art}(https://16colo.rs) form and sometimes develop tools to preserve it.
 
 <!--
 **christianvozar/christianvozar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
